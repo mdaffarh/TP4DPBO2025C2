@@ -3,6 +3,7 @@
 Saya Muhammad Daffa Rizmawan Harahap mengerjakan TP4 dalam mata kuliah DPBO untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
 
 ## Desain GUI
+![Screenshot 2025-03-23 010823](https://github.com/user-attachments/assets/2e0d2ca0-8375-475e-884a-0e5c08b5b800)
 
 ## Desain Program
 Program ini menerapkan beberapa konsep CRUD untuk data Mahasiswa menggunakan Java Swing. Hanya ada satu kelas Mahasiswa yang memiliki atribut: NIM, Nama, Jenis Kelamin, dan Prodi.
@@ -18,5 +19,9 @@ Untuk method pada kelas yaitu getter dan setter untuk tiap atribut.
 
   
 ## Dokumentasi
+
+
+Uploading  2025-03-23 01-06-55.mp4…
+
 
 
