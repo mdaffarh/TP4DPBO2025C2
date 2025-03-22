@@ -16,12 +16,9 @@ Untuk method pada kelas yaitu getter dan setter untuk tiap atribut.
 4. Memilih Data: Untuk melihat sebuah data dapat memilih salah satu data pada tabel, data akan ditampilkan pada form.
 5. Mengedit Data: Untuk mengedit data, pilih salah satu data dari tabel kemudian ubah data pada form lalu tekan tombol "Update"
 6. Menghapus Data: Untuk menghapus, pilih salah satu data dari tabel kemudian tekan tombol "Delete"
-
   
 ## Dokumentasi
-
-
-Uploading  2025-03-23 01-06-55.mp4…
-
-
-
+![Tambah Data](https://github.com/user-attachments/assets/ca9c8b3c-16eb-4c13-8c70-774574b723c2)
+![Select Data](https://github.com/user-attachments/assets/fa67c34d-03ce-4dad-8f47-164b04bcd6d1)
+![Ubah Data](https://github.com/user-attachments/assets/9a05c50d-77ca-47b2-ba55-d7cf2258dfa1)
+![Hapus Data](https://github.com/user-attachments/assets/c210712b-9a68-40b3-ab80-ec4b3859be4d)
